@@ -1,2 +1,2 @@
 # OCR
-OCR in C++ with Tesseract
+Basic OCR setup in C++ with Tesseract
